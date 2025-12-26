@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Night Changes",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-26T10:30:47.911971Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/01_Night_Changes_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/02_Night_Changes_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/03_Night_Changes_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/04_Night_Changes_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Direction - Night Changes",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/05_One_Direction_-_Night_Changes_Various.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/06_Night_Changes_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/07_Night_Changes_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/08_Night_Changes_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/09_Night_Changes_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Direction / Night Changes",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/10_One_Direction___Night_Changes_Various.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/11_Night_Changes_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Night Changes (Afterhrs Remix)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/12_Night_Changes_(Afterhrs_Remix)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Night Changes (Live Acoustic Session)",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/13_Night_Changes_(Live_Acoustic_Session)_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/14_Night_Changes_One_Direction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Night_Changes_One_Direction.txt"
+    }
+  ]
+}
